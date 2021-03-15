@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="pathToConfigFileJava" value="F:/文档资料/fmt/MiaodiFormatter.xml" />
+        <option name="selectedJavaProfile" value="miaodi Convention" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+</project>

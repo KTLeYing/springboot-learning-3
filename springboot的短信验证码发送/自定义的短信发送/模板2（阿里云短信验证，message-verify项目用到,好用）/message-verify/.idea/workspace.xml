@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="message-verify:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7f2402c-df37-45e4-9998-b3f1d5f7aae1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files (x86)/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files (x86)\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hV7GcVJREkbVSWQ62NGQlrSDxU" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA\Idea-workplace\message-verify\message-verify\src\main\webapp\WEB-INF\view" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mzl.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\Idea-workplace\message-verify\message-verify\src\main\resources" />
+      <recent name="D:\IDEA\Idea-workplace\message-verify\message-verify\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.server">
+    <configuration name="SmsApiHttpSendTest.execute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="message-verify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mzl.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mzl.test" />
+      <option name="MAIN_CLASS_NAME" value="com.mzl.test.SmsApiHttpSendTest" />
+      <option name="METHOD_NAME" value="execute" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsApiHttpSendTest.execute1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="message-verify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mzl.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mzl.test" />
+      <option name="MAIN_CLASS_NAME" value="com.mzl.test.SmsApiHttpSendTest" />
+      <option name="METHOD_NAME" value="execute1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsApiHttpSendTest.execute2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="message-verify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mzl.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mzl.test" />
+      <option name="MAIN_CLASS_NAME" value="com.mzl.test.SmsApiHttpSendTest" />
+      <option name="METHOD_NAME" value="execute2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsApiHttpSendTest.execute3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="message-verify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mzl.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mzl.test" />
+      <option name="MAIN_CLASS_NAME" value="com.mzl.test.SmsApiHttpSendTest" />
+      <option name="METHOD_NAME" value="execute3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsApiHttpSendTest.execute4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="message-verify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mzl.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mzl.test" />
+      <option name="MAIN_CLASS_NAME" value="com.mzl.test.SmsApiHttpSendTest" />
+      <option name="METHOD_NAME" value="execute4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.99" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/message_verify_war_exploded/" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="message-verify:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/message_verify_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_message-verify_4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57369" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="message-verify:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SmsApiHttpSendTest.execute3" />
+        <item itemvalue="JUnit.SmsApiHttpSendTest.execute4" />
+        <item itemvalue="JUnit.SmsApiHttpSendTest.execute2" />
+        <item itemvalue="JUnit.SmsApiHttpSendTest.execute" />
+        <item itemvalue="JUnit.SmsApiHttpSendTest.execute1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7f2402c-df37-45e4-9998-b3f1d5f7aae1" name="Default Changelist" comment="" />
+      <created>1600084310887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600084310887</updated>
+      <workItem from="1600084313337" duration="7983000" />
+      <workItem from="1600097975557" duration="8912000" />
+      <workItem from="1600167397192" duration="6773000" />
+      <workItem from="1600189855000" duration="4163000" />
+      <workItem from="1600239265972" duration="4802000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="70" key="#Project_Structure" timestamp="1600086333080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1600086333080" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600108232960">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600108232960" />
+    <state x="499" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1600108195408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600108195408" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600108200166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600108200166" />
+    <state width="1023" height="160" key="GridCell.Tab.0.bottom" timestamp="1600245218938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1023" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600245218938" />
+    <state width="1023" height="160" key="GridCell.Tab.0.center" timestamp="1600245218938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1023" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600245218938" />
+    <state width="1023" height="160" key="GridCell.Tab.0.left" timestamp="1600245218938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1023" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600245218938" />
+    <state width="1023" height="160" key="GridCell.Tab.0.right" timestamp="1600245218938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1023" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600245218938" />
+    <state width="1023" height="160" key="GridCell.Tab.1.bottom" timestamp="1600245218746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1023" height="160" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600245218746" />
+    <state width="1023" height="160" key="GridCell.Tab.1.center" timestamp="1600245218745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1023" height="160" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600245218745" />
+    <state width="1023" height="160" key="GridCell.Tab.1.left" timestamp="1600245218745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1023" height="160" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600245218745" />
+    <state width="1023" height="160" key="GridCell.Tab.1.right" timestamp="1600245218745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1023" height="160" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600245218745" />
+    <state width="1023" height="160" key="GridCell.Tab.2.bottom" timestamp="1600245218746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1023" height="160" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600245218746" />
+    <state width="1023" height="160" key="GridCell.Tab.2.center" timestamp="1600245218746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1023" height="160" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1600245218746" />
+    <state width="1023" height="160" key="GridCell.Tab.2.left" timestamp="1600245218746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1023" height="160" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1600245218746" />
+    <state width="1023" height="160" key="GridCell.Tab.2.right" timestamp="1600245218746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1023" height="160" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1600245218746" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1600173498914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1600173498914" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1600109209691">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600109209691" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600090033792">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600090033792" />
+  </component>
+</project>
